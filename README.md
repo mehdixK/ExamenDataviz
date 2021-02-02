@@ -11,8 +11,6 @@ Cela pourrait permettre une réflexion autour de l’amélioration des zones cyc
 
 Le réseau de transports en IDF est très complexe. Pour cette raison, j’ai choisi de ne prendre en compte que Paris et sa petite couronne.
 
-À travers des jeux de données, nous allons visualiser les zones cyclables en IDF et nous les mettrons en relation avec les gares et stations à proximité. En facilitant l’accès aux gares par une piste cyclable et/ou des zones de stationnement de vélos, nous pourrions favoriser l’usage de ce moyen de transport.
-
 
 # Sommaire
 1. [Acquisition des données](#paragraph1)
