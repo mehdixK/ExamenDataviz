@@ -30,7 +30,7 @@ Le réseau de transports en IDF est très complexe. Pour cette raison, j’ai ch
 
 ## Nettoyager du jeu de données sur OpenRefine :
 
-En utilisant le logiciel OpenRefine, j'ai pu nettoyer, organiser et optimiser mon jeu de données afin que ce dernier réponde à ma problématique.<br/>;
+En utilisant le logiciel OpenRefine, j'ai pu nettoyer, organiser et optimiser mon jeu de données afin que ce dernier réponde à ma problématique.
 Pour cela, il est possible de télécharger le fichier .json contenant l'historique des opérations réalisées sur OpenRefine.
 
 * Télécharger le jeu de données nettoyé ici
@@ -74,4 +74,4 @@ Cette représentation nous permet également de mettre en lumière des zones enc
 
 
 
-Dans un dernier temps, nous pouvons nous poser la question sur le choix de ces aménagements. Un critère pouvant servir de répresentation visuelle est la présence de gares ou de de stations à proximité de ces zones. Pour cela, j'ai enrichi cette carte avec une autre jeu de données traitant des gares et stations ferroviaires en IDF.<br/>;
+Dans un dernier temps, nous pouvons nous poser la question sur le choix de ces aménagements. Un critère pouvant servir de répresentation visuelle est la présence de gares ou de de stations à proximité de ces zones. Pour cela, j'ai enrichi cette carte avec une autre jeu de données traitant des gares et stations ferroviaires en IDF.<br/>
