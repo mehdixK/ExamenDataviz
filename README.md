@@ -1,3 +1,5 @@
+<img src = "https://www.justfocus.fr/wp-content/uploads/2020/05/velo-paris.jpg" title = "Cyclistes parisiens" alt = "Photo sur laquelle nous pouvons voir des personnes faisant du vélo sur une piste cyclable au centre de Paris">
+
 # Aménagement du territoire francilien :<br/> Projets d'aménagements cyclables subventionnés par la Région Île-de-France
 
 En 2020, l'arrêt des activités humaines, et notamment celles liées aux transports, étant dû confinement lié à l’épidémie de Covid-19 a révélé l'impact positif de cet arrêt sur la qualité de l'air en Île-de-France (IDF).
